@@ -1,8 +1,6 @@
 
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>Info Wisnu</title>
-</head>
-<body>
   <center>
   <h1><b><u>Welcome at my website</u></b></h1>
     <marquee>it's a work</marquee>
